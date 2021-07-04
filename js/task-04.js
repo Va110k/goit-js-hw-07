@@ -21,3 +21,5 @@ const decrement = () => {
 const btnIncrementEvent = btnIncrement.addEventListener("click", increment);
 
 const btnDecrementEvent = btnDecrement.addEventListener("click", decrement);
+
+// console.log(counterValue);
